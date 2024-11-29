@@ -1,3 +1,3 @@
 print('Let us add two numbers\n')
 
-return 2+3
+return 2+6
